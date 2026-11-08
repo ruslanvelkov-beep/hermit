@@ -1,0 +1,200 @@
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Wed Dec 31, 2025.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Thu Dec 31, 2025.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Thu Jan 1, 2026.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Fri Jan 1, 2026.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Sun Mar 29, 2026.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Mon Mar 29, 2026.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Mon Mar 30, 2026.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Tue Mar 30, 2026.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Sun Oct 25, 2026.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Mon Oct 25, 2026.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Mon Oct 26, 2026.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Tue Oct 26, 2026.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Sun Nov 1, 2026.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Mon Nov 1, 2026.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Fri Jan 1, 2027.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Sat Jan 1, 2027.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Sun Mar 28, 2027.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Mon Mar 28, 2027.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release was on Tue Feb 29, 2028.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release was on Wed Feb 29, 2028.
+date|2027-01-02T10:00:00Z|UTC|CONSISTENT|Tue Dec 29 was the release.
+date|2027-01-02T10:00:00Z|UTC|INCONSISTENT|Wed Dec 29 was the release.
+date|2026-12-30T10:00:00Z|UTC|INCONSISTENT|Sun Jan 3 was the release.
+date|2026-12-30T10:00:00Z|UTC|INCONSISTENT|Mon Jan 3 was the release.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|Tue Oct 20 was the release.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|Wed Oct 20 was the release.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|Thu Nov 5 was the release.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|Fri Nov 5 was the release.
+date|2028-01-05T10:00:00Z|UTC|CONSISTENT|Sat Dec 25 was the release.
+date|2028-01-05T10:00:00Z|UTC|INCONSISTENT|Sun Dec 25 was the release.
+date|2025-12-20T10:00:00Z|UTC|INCONSISTENT|Fri Jan 2 was the release.
+date|2025-12-20T10:00:00Z|UTC|INCONSISTENT|Sat Jan 2 was the release.
+date|2026-03-01T10:00:00Z|UTC|CONSISTENT|Wed Feb 25 was the release.
+date|2026-03-01T10:00:00Z|UTC|INCONSISTENT|Thu Feb 25 was the release.
+date|2028-03-02T10:00:00Z|UTC|CONSISTENT|Tue Feb 29 was the release.
+date|2028-03-02T10:00:00Z|UTC|INCONSISTENT|Wed Feb 29 was the release.
+date|2026-03-29T21:30:00Z|Europe/Sofia|CONSISTENT|Today is Monday.
+date|2026-03-29T21:30:00Z|Europe/Sofia|INCONSISTENT|Today is Wednesday.
+date|2026-03-29T21:30:00Z|UTC|CONSISTENT|Yesterday was Saturday.
+date|2026-03-29T21:30:00Z|UTC|INCONSISTENT|Yesterday was Monday.
+date|2026-10-25T22:30:00Z|Europe/Sofia|CONSISTENT|Today is Monday.
+date|2026-10-25T22:30:00Z|Europe/Sofia|INCONSISTENT|Today is Wednesday.
+date|2026-11-01T04:30:00Z|America/New_York|CONSISTENT|Yesterday was Saturday.
+date|2026-11-01T04:30:00Z|America/New_York|INCONSISTENT|Yesterday was Monday.
+date|2026-03-08T06:30:00Z|America/New_York|CONSISTENT|Today is Sunday.
+date|2026-03-08T06:30:00Z|America/New_York|INCONSISTENT|Today is Tuesday.
+date|2026-12-31T23:30:00Z|Asia/Tokyo|CONSISTENT|Yesterday was Thursday.
+date|2026-12-31T23:30:00Z|Asia/Tokyo|INCONSISTENT|Yesterday was Saturday.
+date|2026-12-31T23:30:00Z|America/Los_Angeles|CONSISTENT|Today is Thursday.
+date|2026-12-31T23:30:00Z|America/Los_Angeles|INCONSISTENT|Today is Saturday.
+date|2027-04-03T14:30:00Z|Australia/Sydney|CONSISTENT|Yesterday was Saturday.
+date|2027-04-03T14:30:00Z|Australia/Sydney|INCONSISTENT|Yesterday was Monday.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|On 03/14/2026, a Saturday, we shipped.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|On 03/14/2026, a Sunday, we shipped.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|On 03/04/2026, a Friday, we shipped.
+date|2026-10-28T10:00:00Z|UTC|INCONSISTENT|On 03/04/2026, a Monday, we shipped.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|On 07/07/2026, a Tuesday, we shipped.
+date|2026-10-28T10:00:00Z|UTC|CONSISTENT|On 12/25/2026, a Friday, we shipped.
+date|-|UTC|UNVERIFIABLE|We met on Mon Oct 20 to plan it.
+date|-|UTC|UNVERIFIABLE|Today is Monday.
+date|2026-10-28T10:00:00Z|UTC|NONE|The release was on Oct 20, 2026.
+date|2026-10-28T10:00:00Z|UTC|NONE|Today we shipped the fix.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 2 + 1 = 3.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 2 + 1 = 4.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 9 - 6 = 3.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 9 - 6 = 4.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 3 * 2 = 6.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 3 * 2 = 7.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 10 / 2 = 5.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 10 / 2 = 6.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 4 + 3 = 7.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 4 + 3 = 8.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 11 - 8 = 3.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 11 - 8 = 4.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 5 * 4 = 20.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 5 * 4 = 21.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 12 / 4 = 3.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 12 / 4 = 4.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 0.6 + 0.05 = 0.65.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 0.6 + 0.05 = 1.65.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 1.3 - 0.01 = 1.29.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 1.3 - 0.01 = 2.29.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 0.7 * 0.06 = 0.042.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 0.7 * 0.06 = 1.042.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 1.4 / 5 = 0.28.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 1.4 / 5 = 1.28.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 0.8 + 0.07 = 0.87.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 0.8 + 0.07 = 1.87.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 0.2 - 0.03 = 0.17.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 0.2 - 0.03 = 1.17.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 0.9 * 0.08 = 0.072.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 0.9 * 0.08 = 1.072.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We computed 0.3 / 8 = 0.0375.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We computed 0.3 / 8 = 1.0375.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We checked that 3 * 4 > 11.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We checked that 3 * 4 < 11.
+arithmetic|2026-10-28T10:00:00Z|UTC|CONSISTENT|We checked that 0.1 + 0.2 >= 0.3.
+arithmetic|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We checked that 7 / 2 <= 3.
+arithmetic|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|Then 7 / 0 = 1 is wrong.
+arithmetic|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|Then 0 / 0 = 0 is wrong.
+arithmetic|2026-10-28T10:00:00Z|UTC|NONE|The values 2 + 2 and 5 differ.
+arithmetic|2026-10-28T10:00:00Z|UTC|NONE|We computed 10-27 and 03/04/2026.
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following two fixes:~- fix the parser~- update the cache
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following two fixes:~- fix the parser~- update the cache~- add a test
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following 3 changes:~* fix the parser~* update the cache~* add a test
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following 3 changes:~* fix the parser~* update the cache~* add a test~* rename the field
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following 3 changes:~* fix the parser~* update the cache
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following four steps:~- fix the parser~- update the cache~- add a test~- rename the field
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following four steps:~- fix the parser~- update the cache~- add a test~- rename the field~- drop the flag
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following four steps:~- fix the parser~- update the cache~- add a test
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following 5 tests:~* fix the parser~* update the cache~* add a test~* rename the field~* drop the flag
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following 5 tests:~* fix the parser~* update the cache~* add a test~* rename the field~* drop the flag~* clean the logs
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following 5 tests:~* fix the parser~* update the cache~* add a test~* rename the field
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following six files:~- fix the parser~- update the cache~- add a test~- rename the field~- drop the flag~- clean the logs
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following six files:~- fix the parser~- update the cache~- add a test~- rename the field~- drop the flag~- clean the logs~- move the helper
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following six files:~- fix the parser~- update the cache~- add a test~- rename the field~- drop the flag
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following 7 notes:~* fix the parser~* update the cache~* add a test~* rename the field~* drop the flag~* clean the logs~* move the helper
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following 7 notes:~* fix the parser~* update the cache~* add a test~* rename the field~* drop the flag~* clean the logs~* move the helper~* split the class
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following eight issues:~- fix the parser~- update the cache~- add a test~- rename the field~- drop the flag~- clean the logs~- move the helper~- split the class
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following eight issues:~- fix the parser~- update the cache~- add a test~- rename the field~- drop the flag~- clean the logs~- move the helper~- split the class~- merge the branches
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|The following 9 tasks:~* fix the parser~* update the cache~* add a test~* rename the field~* drop the flag~* clean the logs~* move the helper~* split the class~* merge the branches
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The following 9 tasks:~* fix the parser~* update the cache~* add a test~* rename the field~* drop the flag~* clean the logs~* move the helper~* split the class~* merge the branches~* sort the list
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|These two fixes:~- fix the parser~  - with a nested note~- update the cache
+count|2026-10-28T10:00:00Z|UTC|CONSISTENT|These three fixes:~- fix the parser~  - with a nested note~- update the cache~- add a test
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|These five fixes:~- fix the parser~  - with a nested note~- update the cache~- add a test~- rename the field
+count|2026-10-28T10:00:00Z|UTC|INCONSISTENT|These six fixes:~- fix the parser~  - with a nested note~- update the cache~- add a test~- rename the field~- drop the flag
+count|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|About five changes:~- fix the parser~- update the cache~- add a test
+count|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|Around five changes:~- fix the parser~- update the cache~- add a test
+count|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|Roughly five changes:~- fix the parser~- update the cache~- add a test
+count|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|Nearly five changes:~- fix the parser~- update the cache~- add a test
+count|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|Four notes:~- the first note~- the second note~- more notes etc.
+count|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|Three notes:~- the first note~- the second note~- and so on ...
+count|2026-10-28T10:00:00Z|UTC|NONE|We made 4 fixes.
+count|2026-10-28T10:00:00Z|UTC|NONE|We made 4 fixes:
+count|2026-10-28T10:00:00Z|UTC|NONE|The notes:~- one note~- another note
+count|2026-10-28T10:00:00Z|UTC|NONE|Three fixes were made.~- fix the parser
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 2.10 is newer than release 2.9.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 2.9 is older than release 2.10.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release 1.9 is later than release 1.10.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release 1.10 is earlier than release 1.9.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 3.0 supersedes release 2.99.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 2.99 precedes release 3.0.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 1.0.1 is newer than release 1.0.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 1.0 is older than release 1.0.1.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The v3.2 is later than v3.10.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The v3.10 is earlier than v3.2.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 10 supersedes release 9.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 9 precedes release 10.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release 2.0 is newer than release 2.0.0.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release 2.0.0 is older than release 2.0.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 4.12 is later than release 4.2.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 4.2 is earlier than release 4.12.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 1.2.10 supersedes release 1.2.3.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|The release 1.2.3 precedes release 1.2.10.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release 0.9 is newer than release 0.10.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The release 0.10 is older than release 0.9.
+version|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|1.10 exceeds 1.9.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|2.5 exceeds 2.4.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|2.4 exceeds 2.5.
+version|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|1.20 exceeds 1.3.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|Version 10 exceeds version 9.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|Version 9 exceeds version 10.
+version|2026-10-28T10:00:00Z|UTC|INCONSISTENT|Release 1.2.3 exceeds release 1.2.10.
+version|2026-10-28T10:00:00Z|UTC|CONSISTENT|Release 1.2.10 exceeds release 1.2.3.
+version|2026-10-28T10:00:00Z|UTC|NONE|Version 2.10 and 2.9 are both supported.
+version|2026-10-28T10:00:00Z|UTC|NONE|The release 1.10 is newer than the old one.
+version|2026-10-28T10:00:00Z|UTC|NONE|The release 2.10 shipped before the release 2.9.
+version|2026-10-28T10:00:00Z|UTC|NONE|We run 3.2 and 3.10 side by side.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|It took 2 minutes, 90 seconds and 1 min, 4.5 minutes in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|It took 2 minutes, 90 seconds and 1 min, a total of 5 minutes.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|The run took 1 hour and 30 minutes, 1.5 hours in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The run took 1 hour and 30 minutes, a total of 2 hours.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|It took 500 ms, 1.5 hours and 30 secs, 5430.5 seconds in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|It took 500 ms, 1.5 hours and 30 secs, a total of 5430 seconds.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|The run took 2 days and 12 hours, 2.5 days in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The run took 2 days and 12 hours, a total of 3 days.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|It took 45 seconds, 15 seconds and 2 minutes, 3 minutes in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|It took 45 seconds, 15 seconds and 2 minutes, a total of 4 minutes.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|The run took 1 week and 1 day, 8 days in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|The run took 1 week and 1 day, a total of 7 days.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|We used 2 GB and 3 GB, 5 GB in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We used 2 GB and 3 GB, 6 GB in total.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|We used 512 MiB and 512 MiB, 1 GiB in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We used 1 GiB and 1 GiB, 3 GiB in total.
+unit|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|We used 1 KB and 1000 B, 2 KB in total.
+unit|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|We used 1 GB and 500 MB, 1.5 GB in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We used 1 GB and 1 GB, 3 GB in total.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|We used 256 KiB and 768 KiB, 1 MiB in total.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|We used 1 TB and 1 TB, 2 TB in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We used 1 MB and 24 KB, 1 MB in total.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|It cost 5 USD and 3 USD, 8 USD in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|It cost 5 USD and 3 USD, 9 USD in total.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|It cost 2.50 EUR and 1.25 EUR, 3.75 EUR in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|It cost 2.50 EUR and 1.25 EUR, a total of 4 EUR.
+unit|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|The trip took 2 months and 1 month, 3 months in total.
+unit|2026-10-28T10:00:00Z|UTC|UNVERIFIABLE|The plan took 1 year and 2 weeks, 54 weeks in total.
+unit|2026-10-28T10:00:00Z|UTC|CONSISTENT|We downloaded 2 GB, waited 3 minutes and downloaded 1 GB, 3 GB in total.
+unit|2026-10-28T10:00:00Z|UTC|INCONSISTENT|We waited 2 minutes, downloaded 3 GB and waited 1 minute, 6 minutes in total.
+unit|2026-10-28T10:00:00Z|UTC|NONE|It took 2 minutes, 2 minutes in total.
+unit|2026-10-28T10:00:00Z|UTC|NONE|It cost 5 USD and 3 EUR, 8 USD in total.

@@ -1,0 +1,225 @@
+# Word categories, derived from WordNet 3.1 (Princeton University) by the hypernyms of the first two senses of
+# each noun of one word: a [time] noun has a sense that is an event, a gathering, a time period or a point in
+# time (not an act and not a unit); a [unit] noun's first sense is a unit of time or of measurement. Words of two
+# or more characters, in lower case, separated by spaces, under their category's heading. WordNet's licence:
+#
+# This software and database is being provided to you, the LICENSEE, by
+# Princeton University under the following license.  By obtaining, using
+# and/or copying this software and database, you agree that you have
+# read, understood, and will comply with these terms and conditions.:
+#
+# Permission to use, copy, modify and distribute this software and
+# database and its documentation for any purpose and without fee or
+# royalty is hereby granted, provided that you agree to comply with
+# the following copyright notice and statements, including the disclaimer,
+# and that the same appear on ALL copies of the software, database and
+# documentation, including modifications that you make for internal
+# use or for distribution.
+#
+# WordNet 3.1 Copyright 2011 by Princeton University.  All rights reserved.
+#
+# THIS SOFTWARE AND DATABASE IS PROVIDED "AS IS" AND PRINCETON
+# UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR
+# IMPLIED.  BY WAY OF EXAMPLE, BUT NOT LIMITATION, PRINCETON
+# UNIVERSITY MAKES NO REPRESENTATIONS OR WARRANTIES OF MERCHANT-
+# ABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE
+# OF THE LICENSED SOFTWARE, DATABASE OR DOCUMENTATION WILL NOT
+# INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR
+# OTHER RIGHTS.
+#
+# The name of Princeton University or Princeton may not be used in
+# advertising or publicity pertaining to distribution of the software
+# and/or database.  Title to copyright in this software, database and
+# any associated documentation shall at all times remain with
+# Princeton University and LICENSEE agrees to preserve same.
+[time]
+ab abatement abiotrophy abkhas abortion accelerando acceleration accident accommodation accompaniment achomawi adar
+adjustment adolescence adrenarche adulthood advance advent adversity aegir aeon aeroembolism aetiology afterlife
+aftermath afternoon age aghan airburst airflow airspeed akwa'ala aleut allegretto allegro allhallows allhallowtide
+allogamy allomerism alpha alteration amphimixis amplitude anachronism anaphase andante angelus annihilation
+anniversary annum annunciation antecedent anticlimax antiquity apocalypse apogee apoplexy appalling apparition
+appearance appointment approaching apr april archaeozoic archean archeozoic areopagus army asadha asarh ascension
+ascent asin assemblage assizes asvina atavism athletics atmospherics atrophy attendance attenuation attraction
+audience aug augmentation augury august aurora auspice autogamy autumn av avalanche avulsion baa babyhood
+bachelorhood back-blast backblast backfire backflow backflowing backlash backspin baisakh balefire bam bane bang
+banging banquet bark barnburner baroque bash bay beanfeast beat bedtime bee beep beginning bend bending betterment
+bevy bhadon bhadrapada bicentenary bicentennial billow bimester bimillenary bimillennium birr birth birthday
+birthrate blackout blare blaring blast blaze bleat bleep blend blip blossom blow blowback blowout blowup bolt
+bombilation bombination bombshell bonanza bonfire bong bookfair boom bore borough bouncing bout bow-wow boyhood bpm
+bps brawl bray break breaker breakers breakup breather broadcast brouhaha brumaire buffeting bun-fight bunce bunch
+bunfight burgh burial burlesque burnup bust buzz by-and-by bygone cackle cacophony caesura caitra calamity calendar
+caliphate calvary cambrian camp campaign campfire candlemas canicule capsizing carboniferous carload carom cartoon
+case cast cataclysm cataplasia catastrophe caterwaul caucus cause caw cease ceilidh celebration cenozoic centenary
+centennial century ceremonial ceremony cessation chait chalcedon championship chancery change changeover channukah
+channukkah chanukah chanukkah chapter charybdis chatter chattering checkmate checkout cheep childhood chirp chirrup
+chislev chorus christianisation christianization christmas christmastide christmastime chug chukka chukker
+circassian circumcision clack clamor clang clangor clangoring clangour clank clap clash class clatter cleistogamy
+click click-clack clickety-clack clickety-click cliffhanger climacteric climax climb climbing clink clip clip-clop
+clippety-clop clocking clonus clop clopping close cluck clucking clumping clunk clunking clutter co-occurrence
+coarctation cock-a-doodle-doo cockcrow cockfight cohort coincidence collapse collision colloquium colorcast
+colourcast comber combining comeupance comeuppance commemoration commencement commune community compaction
+competition complin compline compression concert conclave concoction concomitant concourse concussion conference
+conflagration conglobation congress conjuncture consequence conservation consistory consolidation constance
+constantinople constriction contagion contest contingence contingency contingent continuance continuum contraction
+convent conventicle convention convergence conversion convocation convulsion coo cornhusking corollary coronary
+coronation cortege coruscation cotilion cotillion council counterattraction couple court court-martial coven covey
+cps cracking crackle crackling crash creak creaking creep crepitation crepuscle crepuscule cretaceous crisis crit
+criterium cross-fertilisation cross-fertilization cross-pollination crossroads crosstalk crow crowd crucifixion
+crunch crush cst culmination curfew current cva cycle dail damage dance dawn dawning day daybreak daylight days
+dayspring daytime dead deadline death deathbed deathrate debacle debilitation dec decade decathlon decease
+deceleration december decennary decennium decrease decrepitation dedication deep defeat defervescence deflection
+deflexion deformation delay deletion deliquium delivery demise demolition denouement densification departure
+depredation derailment descent destabilization destiny destruction detonation detriment deviation devonian
+dextrorotation dhu'l-hijja dhu'l-hijjah dhu'l-qa'dah diakinesis diaspora diastole diet difference diffusion din ding
+ding-dong dinner dinnertime diplotene disappearance disaster discharge discrepancy discus disembarrassment
+dislocation dispersion displacement dissilience dissipation distortion divergence diving do docudrama documentary
+dogfight dogwatch dominicus doom doomsday dormition dotage doubleheader downfall downhill downtime drama dribble
+driftage drip drippage dripping drought drouth drove drubbing drum drumbeat dud duma duration dusk dwindling dying
+eager eagre easing easter eastertide ebb ebbtide eclipse eddy efflorescence egress eighties eightsome elaboration
+eld elevation ellul elul elves embolism emergence emergency emersion encounter encroachment end endgame enervation
+enfeeblement engagement enlistment ensemble entering enthronement enthronisation enthronization entombment entourage
+entr'acte entrance eocene eolithic eon ephemera ephesus epidemic epipaleolithic epiphany episcopate episode epoch
+equinox era eradication ert eruption eschaton esr est eternity etiology evanescence even evenfall evening evensong
+event eventide eventuality exhaustion exigency exit expense expiration expiry explosion extension extermination
+extrasystole exudation factor fadeout fading failure faint fair fall famine fatality fate feast feb february
+fecundation fender-bender feria fertilisation fertility fertilization festival fete fiasco fiesta fifties film final
+finale finis finish fire fit fitting fivesome fizzle flame-out flapping flare-up flash flashback flashing flection
+flexion flick flicker float floreal flow flowing fluctuation flush fluttering flux fluxion follies footfall footrace
+footstep foreboding forenoon foretoken formal formalities formality forties fortnight fortuity forum foundering
+foursome freestyle frequence frequency freshet fri friday frimaire fructidor full full-of-the-moon fundamental
+fundraiser funeral funrun furlough fusion future futurity gait gallery game gang gargle gathering gaudy gc
+geezerhood genesis germinal germination gestation get-go getaway ghrf ghz gigacycle gigahertz girlhood gleam
+gleaming glimmer glint glitter gloam gloaming glycogenesis gmt go gobble godsend godspeed going grade graduation
+grandstand grassfire grate grave gravitation gridlock grinding groundspeed growl growling grumble grumbling grunt
+gurgle gush gymkhana gyration habituation hadean half half-century half-holiday half-life half-moon half-term
+halftime hallowe'en halloween hallowmas hallowmass halt hamlet hannukah hanukah hanukkah hap happening happenstance
+harm haying headway heartbeat heartbreaker heave heaving hebdomad hell hereafter hertz heshvan heyday hiatus
+highwater hiss hissing history histrionics hitch hive hogmanay holiday holocene homestretch honeymoon honk
+hop-step-and-jump horde hospitalization host hour hours housewarming howl hubbub huddle humming hurdles hurdling
+hushing hymeneals hypervelocity hysterics hz ictus ides iditarod idyll immersion immortality impact impairment
+impinging implosion improvement inaugural inauguration inception incident incipience incipiency increase incubation
+incumbency indaba independence indiction induction inevitable infancy inferno infinity inflation infotainment
+ingress inhumation initiation injury inka inning inquisition installment instalment instance instant instroke
+intercalation interim interlocking interlude interment intermission interregnum interruption interval intrusion
+invasion investiture isomerisation isomerization isometry iyar iyyar jan jangle january javelin jet jeth jiffy
+jingle jirga jitter jolly jolt jounce jubilation jubilee judicature july jump juncture june jungle jurassic jyaistha
+karma kartik karttika katzenjammer kc kechua khz kickoff killing kilocycle kilohertz kip kislev kismat kismet knell
+knesset knesseth knock knocking kph kuroshio lactation lag lahar lammas lammastide landmark landslide landslip
+langsyne lapse laryngospasm last latency laugher law-makers lawcourt leakage leap leave legislature leisure lent
+lententide leptotene lessening letup levee levitation levorotation licking life-time lifespan lifetime liftoff
+lightening lightning lights-out limit longueur loosening lottery luau lull lunchtime lurch lustrum luxation lyons
+maelstrom magh magha maiden maidenhood maidhood make-up makeup malformation malfunction manana manifestation mar
+marathon march margasivsa martinmas martyrdom marvel masque masquerade match materialisation materialization matinee
+matins maturity maundy may mc meal mealtime meantime meanwhile meet meeting megacycle megadeath megahertz meltdown
+memorialisation memorialization menarche menopause meow merger merry-go-round mesasamkranti mesh meshing mesolithic
+mesozoic messidor metaphase metropolis mew mhz miaou miaow miaul michaelmas michaelmastide mid-april mid-august
+mid-december mid-eighties mid-february mid-fifties mid-forties mid-january mid-july mid-june mid-march mid-may
+mid-nineties mid-november mid-october mid-september mid-seventies mid-sixties mid-thirties mid-twenties midafternoon
+midday midnight midsummer midterm midwatch midweek midwinter might-have-been milestone millenary millennium minute
+minyan miocene miracle misadventure miscarriage mischance miscreation misdating misfire misfortune mishap miss
+mississippian mistiming mix mixer mo mob moderation moharram moksa moment mon monday monsoon monstrosity month moo
+moratorium morn morning mortality moshav motion mounting movie mph mst mudslide muharram muharrum multistage
+multitude municipality murmur murmuration murmuring musical mussitation muster musth mutagenesis mutation mutilation
+mutter muttering nap nascence nascency natality nativity neap neigh neighborhood neighbourhood nemesis neolithic
+newsreel nicaea nicker night nightfall nighttime nineties nisan nissan nivose noel noise nonage nonce none nones
+nonevent noon noonday noontide noruz nov november noviciate novitiate now nowadays nowrooz nowruz nuptials
+obliteration obsequy observance occasion occlusion occultation occurrence occurrent oct octave october off-day
+off-season offing offset oftenness oink oireachtas old oligocene olympiad olympics omega omen oncoming one-off
+onrush onset onslaught ooze oozing opener opening ordeal ordovician origination oscillation outage outbreak outburst
+outcome outflow outgrowth outing outpouring outset outstroke over overflow overhead overspill overstrain overtime
+overture owlt pace pachytene pacing pageant pageantry palaeolithic paleocene paleolithic paleozoic pandemic pansa
+pant paradiddle parameter parish parliament parousia paroxysm party pasch pascha pass passing passover past pat
+patter pause payday peacetime peak peal pealing pedesis peep peepshow pennsylvanian pentathlon pentecost performance
+period peripeteia peripetia peripety permian permutation pesach pesah phagun phalanx phalguna phanerozoic phase
+phenomenon phlebothrombosis phone-in pianism pic picnic pileup pin ping pinpoint pitter-patter pity plash play
+playday playoff playtime pleistocene plenum pliocene plonk plop plump plunge plunk pluviose pollenation pollination
+popping portent postponement potlatch pounding powwow prairial prang pratfall preakness precambrian predestination
+prehistory preindication prelim preliminary prelude premiere prepuberty presage preseason present presidency prime
+priscoan prizefight probation procession prodigy prognostic prognostication progression prom promenade prophase
+proterozoic pst puberty pubescence puerperium pulsation pulse pulsing punctuation puncture purim purr pus pyrolysis
+quack quadragesima quadrennium quadrumvirate quarter-century quarterfinal quatercentenary quatercentennial
+quaternary quattrocento quaver quechua quincentenary quincentennial quinquagesima quinquennium quorum rabble race
+racket rag raising rajab rale rally ramadan ramanavami rap raptus rarefaction rat-a-tat rat-a-tat-tat rat-tat
+rataplan rate rattle rattling ravage rave rave-up ravel razing readjustment reappearance rebirth rebound receding
+recent reception recital recoil recombination reconstruction recovery recrudescence rectification recurrence
+rededication refinement reflux refraction regatta regency regurgitation reign reincarnation rematch remission
+remittal renaissance renascence rendering rendition repeat repechage repercussion repetition replay reprieve rerun
+resilience resiliency resonance restoration resultant resurgence resurrection resuscitation retardation retinue
+retrogression reunion rev reversal reversion revitalisation revitalization revival revivification revolution revue
+reward rf rhonchus ricochet riffle ringing ripple rippling riptide rise rising roar roaring rockslide roi roll
+roller rolling romp rota round rout routine rpm rtlt rub-a-dub rubato ruck ruination rumble rumbling run-time run-up
+runaway runoff runup rupture rush rustle rustling sabbat sabbath sabbatical sabbatum sacrifice safar sailing-race
+saltation salvo samsara saphar sat saturday sawan scandal scene scet schism schooldays schooltime scintillation sclk
+scourge scrape scraping scratching scream screaming screech screeching scrunch sea-poose sea-purse sea-puss seanad
+seance season second seedtime seek seepage seiche seizure self-fertilisation self-fertilization self-pollination
+sellout semester semi semicentenary semicentennial semifinal seminar senate send-off senility sep separation sept
+september septuagesima sepulture sequel sequella serial series sesquicentennial session setback settlement settling
+sevensome seventies severance sext sha'ban shaaban shabuoth shakedown shavous shavuot shavuoth shawwal shear shebat
+sheepshearing shevat shibah shift shimmer shimmy shindig shindy shipwreck shiva shivah shoo-in shoot-'em-up
+show-stopper showstopper showtime shriek shrieking shrilling shrinkage shrinking shrovetide shutout sibilation
+sideshow sideswipe sigh silents silurian sinking sitcom sivan siwan sixsome sixties sizzle skeleton skirl skunk
+slackening slalom slam slap slaughter sleepover slide slowing smack smash smash-up smoker smolder smoulder smudge
+snap snarl-up snore sociable social soiree soliton solstice song spacing span spark sparkle sparkling spate spatter
+spattering spectacular speed spell spelldown spike spin spirt splash splat splatter splattering splutter spread
+spreading spring springtide springtime sprites spritz spurt sputter sputtering squawk squeak squeal squirt squish
+sravana stage stalemate stampede standoff standstill start start-off static steeplechase steerageway stint stop
+stopper strain straits strengthening stridulation striking stroke strum stunner sublimation subluxation submergence
+submerging submersion subsequence subsidence subsiding substitution success succos succoth sukkoth summer summertime
+sunday sundown sunrise sunset sunup superfecundation superfetation supervention supper suppertime surcease surf
+surge surprise suspension susurration susurrus swarm swash swell swerve swish switch swoon swoosh symposium syncope
+synod systole tabernacles tail takedown takeoff talkie tammuz tap tapping tebet teens telefilm telophase tempo
+tenure terahertz terce tercentenary tercentennial term termination tertiary tet tetralogy tevet th thammuz
+thanksgiving theatrical thelarche then theophany thermidor thirties thirty-something thrashing three-d threesome
+threshold throb throbbing thromboembolism thrombosis throng throwback thrum thud thump thumping thunder thunderclap
+thunk thursday thz tick ticking ticktock tictac tide tie-up tiebreaker tierce time time-out timekeeping times ting
+tinkle tintinnabulation tishri tocktact today tomorrow tonight toon toot tootle topspin torrent touch touching tour
+tournament tourney town townsfolk townspeople tragedy trample trampling transfiguration transformation transient
+transition translation transmigration transmutation transposition transudation travel travelog travelogue treat
+tremolo triassic tribulation tribunal trice trick trickle triennial trimester triumph triumvirate trm trouncing
+tryst tsunami tues tuesday tug-of-war tumble turnaround turnout twang tweet twelfthtide twelvemonth twenties
+twilight twinkle twinkling twist twitter twosome umma ummah undercurrent undertide undertow undulation unification
+uplift uplifting uproar upsurge upthrow upthrust uptime usance ut utc v-day vac vacation vacay vagary vaisakha
+vanishing variance variant variation vaudeville veadar velocity vendemiaire ventose vespers vibrato vice-presidency
+vicissitude victory vienne village visit visitation volution vortex vroom wages wait walkaway walloping wallow waltz
+waning warping wartime washday watch watergate waterloo wave waveform wavelet waxing weakening wed wedding wednesday
+wee week weekday weekend weeknight western whack whammy whicker while whinny whipping whir whirl whirlpool whirr
+whirring whisper whispering whistle whistling whit-tuesday whitecap whitewash whitmonday whitsun whitsunday
+whitsuntide whitweek whiz whoosh widowhood wildfire win windfall wink winter wintertime wipeout withering wobble
+wonder workday workweek worst wound wpm wrack wreck wrecking wrench wring xhosa xmas xt yaw year year-end years yelp
+yelping yesterday yesteryear yip yore yr yule yuletide zap zing zizz zoom zulu zygotene
+[unit]
+abamp abampere abcoulomb abfarad abhenry abohm abvolt abwatt acre acre-foot afghani agora amp ampere ampere-hour
+ampere-minute ampere-second ampere-turn angstrom anna arcdegree archine arcminute arcsecond ardeb are arpent arroba
+asper atm attosecond austral avo baht baisa baiza balboa barye bbl bel birr bob bolivar boliviano btu bushel butat
+butut byte calorie candela carat cattie catty cc cedi cent cental centare centas centavo centesimo centiliter
+centilitre centime centimeter centimetre centimo centner chaldron chetrum chon ci cicero cm congius conto copeck
+cordoba coss coulomb cran crith cubit curie cwt d-day dag dal dalasi daraf date day decagram decaliter decalitre
+decameter decametre decibel decigram deciliter decilitre decimeter decimetre dekagram dekaliter dekalitre dekameter
+dekametre denier dessiatine deutschmark dg dinar diopter dioptre dirham dkg dkl dkm dl dobra dol dollar dong
+doppelzentner drachm drachma dram dyne eb ebit eib eibit em emu en epha ephah erg erlang escudo euro eurodollar ev
+exabit exabyte exbibit exbibyte eyrir farad fathom femtometer femtometre femtosecond femtovolt fen fermi fifth fils
+fingerbreadth firkin fistmele florin fluidounce fluidram foot-lambert foot-pound foot-poundal foot-ton footcandle
+footer forint frail franc ft ft-l fthm furlong g-force gal gallon gauss gbit gee gi gib gibibit gibibyte gibit
+gigabit gigabyte gilbert gill gm gourde grad gram gramme groschen grosz guarani guilder gulden gy haler half-hour
+handbreadth handsbreadth hao hectare hectogram hectoliter hectolitre hectometer hectometre heller henry hin hl hm
+hogshead horsepower horsepower-hour hour hp hr hryvnia hundredweight in inch inti jiao joule kapeika karat kb kbit
+kelvin kg khoum kib kibibit kibibyte kibit kilderkin kilo kilobit kilobyte kilocalorie kilogram kilogram-meter
+kiloliter kilolitre kilometer kilometre kiloton kilovolt kilovolt-ampere kilowatt kina klick km kobo kopeck kopek
+kopiyka kor koruna kos krona krone kroon kt kurus kv kw kw-hr kwacha kwai kwanza kyat lambert langley lari lats lb
+lea lek lempira leone lepton leu lev light-year ligne likuta lilangeni lira litas liter litre lm loonie loti lumen
+lumma lunation lux lwei magneton manat markka maund mb mbit mcg mebibit mebibyte megabit megabyte megaflop megaton
+megawatt megohm mesh meter metical metre mflop mg mho mib mibit microbar microfarad microgauss microgram micrometer
+micromicron micromillimeter micromillimetre micron microradian microsecond microvolt mil mile miler milliampere
+millibar millicurie millidegree millifarad milligram millihenry milliliter millilitre millime millimeter millimetre
+millimicron milline milliradian millirem millisecond millivolt milliwatt min minim minute mips ml mm mol mole mongo
+morgen morrow mrem msec mutchkin mv myg mym myriagram myriameter myriametre naira nanogram nanometer nanometre
+nanosecond nanovolt ng ngultrum ngwee nibble nit nm nybble obolus oersted ohm oka ouguiya ounce oxtant pa'anga paisa
+parsec pascal pataca pbit pdl pebibit pebibyte pengo penni penny pennyweight peseta pesewa peso petabit petabyte
+pfennig phon phot piaster piastre pib pibit picofarad picometer picometre picosecond picovolt picul pint poise pood
+pound poundal pounder psi pul pula punt pya qepiq qindarka qintar quart quarter-hour quetzal quid quintal qurush rad
+radian rand rankine rial riel ringgit riyal riyal-omani roentgen rotl rouble rubel ruble rupee rupiah rutherford
+sabin santims satang schilling scruple sec second secpar sen sene seniti sent sente sextant shekel shilling siemens
+som sone steradian sthene stotinka stp subunit sucre tael taka tala tambala tanga tbit tdt tebibit tebibyte tenge
+terabit terabyte teraflop tesla tetri thebe therm tib tibit tical tiyin tod toea tomorrow ton tonne torr tt tughrik
+tugrik tyiyn unit var vara verst volt volt-ampere watt watt-hour welterweight won yard yarder ybit yesterday yib
+yibit yobibit yobibyte yottabit yottabyte yuan zaire zb zbit zebibit zebibyte zettabit zettabyte zib zibit zloty

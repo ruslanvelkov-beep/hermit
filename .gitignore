@@ -1,0 +1,12 @@
+build/
+.gradle/
+out/
+logs/
+.idea/
+*.class
+.DS_Store
+# Local keys and secrets the agent reads; never commit them
+.secrets/
+*.api.key
+cloud-keys.properties
+*.env

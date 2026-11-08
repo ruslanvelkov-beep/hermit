@@ -1,0 +1,17 @@
+# The emulator runs a library method for real only when its class is admitted here: pure in-memory JDK value types.
+# Anything that can reach the environment (files, processes, threads, class loading, prefs and logging sinks) degrades
+# to unknown instead of executing. One rule per line: allow|deny <regex> on a class name, skip-method <regex> on a
+# method name. The first allow or deny rule whose pattern finds a match decides; a name no rule matches is denied.
+# A project's rules come first: -Dhermit.emu.rules=<file>[,<file>...].
+
+# atomics are heap-only and a common lambda-capture test idiom
+allow ^java\.util\.concurrent\.atomic\.
+deny  ^java\.lang\.(reflect|invoke)\.
+# Process, ProcessBuilder, ProcessHandle...; Thread, ThreadGroup, ThreadLocal...; ClassLoader and its kin
+deny  ^java\.lang\.(Process|Thread|ClassLoader)
+deny  ^java\.lang\.(Class|System|Runtime)$
+deny  ^java\.util\.(prefs|logging|concurrent)\.
+allow ^java\.(time|lang|util|math)\.
+
+# calls whose result depends on the clock or chance are never run for real, on any class
+skip-method ^(now|random|randomUUID|currentTimeMillis|nanoTime)$
